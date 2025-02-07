@@ -1,7 +1,3 @@
----
-layout: default
-title: README
----
 
 # 北京一卡通AppJS交互方法汇总1
 
