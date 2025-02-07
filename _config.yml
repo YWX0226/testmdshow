@@ -1,6 +1,6 @@
 title: testmdshow
 description: A brief description of your site
-theme: jekyll-theme-Minima
+theme: jekyll-theme-minima
 markdown: kramdown
 styles:
   - /assets/styles.css
