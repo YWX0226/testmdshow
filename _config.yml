@@ -2,3 +2,5 @@ title: testmdshow
 description: A brief description of your site
 theme: jekyll-theme-slate 
 markdown: kramdown
+styles:
+  - /assets/styles.css
